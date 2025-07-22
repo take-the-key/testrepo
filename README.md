@@ -10,3 +10,5 @@ Just following up with some more notes
 Notes from class:
 id can only be used once
 but class can be used multiple times
+
+July 21st, I'm back at it
